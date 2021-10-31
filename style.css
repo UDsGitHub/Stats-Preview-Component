@@ -57,6 +57,7 @@ p {
 /* Layout */
 
 body {
+  margin: 0;
   background-color: var(--Very-dark-blue);
   color: white;
   font-size: 15px;
